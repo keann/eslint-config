@@ -1,6 +1,6 @@
 {
-  "name": "eslint-config-bizone",
-  "version": "1.0.0-rc.0",
+  "name": "@keann/eslint-config",
+  "version": "1.0.0-rc.1",
   "description": "Prettier-friendly eslint config focused on React and Typescript",
   "license": "ISC",
   "main": "index.js",
