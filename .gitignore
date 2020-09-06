@@ -1,0 +1,11 @@
+# macOS
+.DS_Store
+
+# NPM
+node_modules/
+package-lock.json
+
+# Dev
+.idea/*
+.vscode/*
+*.l0cal*
